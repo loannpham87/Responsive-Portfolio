@@ -114,18 +114,22 @@ footer {
 }
 
 @media screen and (max-width: 980px) {
-    body {
-
-    }
+    .wrapper{
+        width:600px;
+      }
 }
 
 @media screen and (max-width: 768px) {
-    body {
-  
-    }
+    .wrapper{
+        width:600px;
+      }
 
 
 @media screen and (max-width: 640px) {
     header {
         position: static;
     }
+
+    .wrapper{
+        width:600px;
+      }
